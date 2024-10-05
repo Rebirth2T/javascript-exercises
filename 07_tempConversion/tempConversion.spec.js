@@ -9,7 +9,7 @@ describe('convertToCelsius', () => {
   });
   test('works with negatives', () => {
     expect(convertToCelsius(-100)).toEqual(-73.3);
-  });
+  });<
 });
 
 describe('convertToFahrenheit', () => {
